@@ -24,6 +24,10 @@ const Header = () => {
       <Link href="/masonry">
         <Menu>Masonry</Menu>
       </Link>
+
+      <Link href="/headerbar">
+        <Menu>Header</Menu>
+      </Link>
     </HeaderBlock>
   );
 };
