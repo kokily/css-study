@@ -20,6 +20,10 @@ const Header = () => {
       <Link href="/float">
         <Menu>Float</Menu>
       </Link>
+
+      <Link href="/masonry">
+        <Menu>Masonry</Menu>
+      </Link>
     </HeaderBlock>
   );
 };
